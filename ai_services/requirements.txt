@@ -15,5 +15,3 @@ pdf2image>=1.16.0
 python-dotenv>=1.0.0
 
 
- "mongodb+srv://prasunsuwal:Am71NQ9zpK0FNHeZ@expensetracker.mknvcqt.mongodb.net/?retryWrites=true&w=majority&appName=expenseTracker"
-"mongodb+srv://dishantghimire10:3hsQ2m4JAJlNKDO8@expensetracker.87kcsh4.mongodb.net/?retryWrites=true&w=majority&appName=expenseTracker"
